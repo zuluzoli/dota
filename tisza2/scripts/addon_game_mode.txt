@@ -1,0 +1,7 @@
+"addon_game_mode"
+{
+    "CustomGameSetup"
+    {
+        "selection" "SD"
+    }
+}

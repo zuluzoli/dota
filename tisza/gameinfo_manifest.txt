@@ -1,0 +1,4 @@
+"gameinfo_manifest"
+{
+	"gameinfo_path" "gameinfo.gi"
+}

@@ -1,0 +1,16 @@
+(function () {
+	GameUI.CustomUIConfig().hero_selection = GameUI.CustomUIConfig().hero_selection || {};
+
+
+	GameUI.CustomUIConfig().hero_selection.SetAvailableHeroes = function(heroes) {
+		// Ez az alapértelmezett single draft UI handler
+		// A Valve beépített panelje ezt fogja használni.
+		$.DispatchEvent("DOTAShowHeroPicker" , $.GetContextPanel(), heroes);
+	};
+
+
+	GameEvents.Subscribe("single_draft_set_heroes", function(data) {
+	if (!data || !data.heroes) return;
+		GameUI.CustomUIConfig().hero_selection.SetAvailableHeroes(data.heroes);
+	});
+})();

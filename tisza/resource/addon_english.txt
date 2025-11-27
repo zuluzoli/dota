@@ -1,0 +1,5 @@
+"addon_english"
+{
+	"addon_game_name" "Custom Single Draft"
+	"addon_description" "SteamID-based Single Draft system"
+}
