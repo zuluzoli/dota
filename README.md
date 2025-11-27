@@ -13,6 +13,7 @@ Steps:
 5: Open the console and type: "dota_launch_custom_game example dota"
 
 
+
 Result:
 
 After running dota_launch_custom_game example dota, you should see the message: "Hello World from Tisza!"
