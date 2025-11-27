@@ -12,6 +12,6 @@
 
 ## Result
 
-After running the `dota_launch_custom_game example dota` command, you should see the message:
+After running the `dota_launch_custom_game example dota` command, you should see the message in the console:
 
 **"Hello World from Tisza!"**
