@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+    "name"              "tisza"
+    "authors"           "you"
+    "version"           "1"
+    "dependencies"      ""
+    "updaterules"       ""
+}
