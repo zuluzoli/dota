@@ -1,18 +1,17 @@
-Steps:
+# Example Addon Setup Guide
 
-1: Download the "example" directory.
+## Steps
 
-2: Copy the "example" directory to your Dota 2 folder:
+- **Töltsd le** az `example` könyvtárat.
+- **Másold** az `example` könyvtárat a Dota 2 mappádba:  
+  `C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\example`
+- **Indítsd el** a Dota 2 játékot.
+- **Kapcsold be** a konzolt a *Settings* menüben.
+- **Nyisd meg** a konzolt és írd be:  
+  `dota_launch_custom_game example dota`
 
-  C:\Program Files (x86)\Steam\steamapps\common\dota 2 beta\game\dota_addons\example
-  
-3: Launch Dota 2
+## Eredmény
 
-4: Enable the console in the Settings menu.
+Ha lefuttatod a `dota_launch_custom_game example dota` parancsot, meg fog jelenni a következő üzenet:
 
-5: Open the console and type: "dota_launch_custom_game example dota"
-
-
-Result:
-
-After running dota_launch_custom_game example dota, you should see the message: "Hello World from Tisza!"
+**"Hello World from Tisza!"**
