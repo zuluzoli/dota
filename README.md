@@ -10,6 +10,13 @@
 5. **Open** the console and type:  
    `dota_launch_custom_game example dota`
 
+## Notes on the Command
+
+The command `dota_launch_custom_game example dota` takes **two parameters**:
+
+- **First parameter** → the **addon name** (`example`)  
+- **Second parameter** → the **map name** (`dota`)
+
 ## Result
 
 After running the `dota_launch_custom_game example dota` command, you should see the message in the console:
