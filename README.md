@@ -21,7 +21,7 @@ The command `dota_launch_custom_game example dota` takes **two parameters**:
 
 After running the `dota_launch_custom_game example dota` command, you should see the message in the console:
 
-##Our goal
+## Our goal
 
 Our goal is to create a single draft mode where:
 
