@@ -21,4 +21,10 @@ The command `dota_launch_custom_game example dota` takes **two parameters**:
 
 After running the `dota_launch_custom_game example dota` command, you should see the message in the console:
 
-**"Hello World from Tisza!"**
+**"Our goal**
+
+Our goal is to create a single draft mode where:
+
+1. Everybody receives 3 random heroes from the full pool (exactly like in Single Draft mode).
+2. A specific Steam account ID receives only a few predefined heroes, such as Chen. This effectively reduces the advantage of high-MMR accounts.
+3. **Optional** We can additionally give that specific Steam account ID 30% less gold and XP.
