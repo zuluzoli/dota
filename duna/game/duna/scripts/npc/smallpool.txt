@@ -1,0 +1,32 @@
+"npc_dota_hero_abaddon"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_alchemist"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_ancient_apparition"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_antimage"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_arc_warden"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_axe"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_bane"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_batrider"
+{
+    "Role" "Universal"
+}

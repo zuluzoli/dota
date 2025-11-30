@@ -1,0 +1,504 @@
+"npc_dota_hero_abaddon"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_alchemist"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_ancient_apparition"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_antimage"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_arc_warden"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_axe"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_bane"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_batrider"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_beastmaster"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_bloodseeker"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_bounty_hunter"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_brewmaster"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_bristleback"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_broodmother"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_centaur"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_chaos_knight"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_chen"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_clinkz"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_crystal_maiden"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_dark_seer"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_dark_willow"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_dawnbreaker"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_dazzle"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_death_prophet"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_disruptor"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_doom_bringer"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_dragon_knight"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_drow_ranger"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_earth_spirit"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_earthshaker"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_elder_titan"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_ember_spirit"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_enchantress"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_enigma"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_faceless_void"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_furion"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_grimstroke"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_gyrocopter"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_hoodwink"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_huskar"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_invoker"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_jakiro"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_juggernaut"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_keeper_of_the_light"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_kez"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_kunkka"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_legion_commander"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_leshrac"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_lich"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_life_stealer"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_lina"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_lion"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_lone_druid"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_luna"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_lycan"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_magnataur"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_marci"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_mars"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_medusa"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_meepo"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_mirana"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_monkey_king"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_morphling"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_muerta"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_naga_siren"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_necrolyte"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_nevermore"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_night_stalker"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_nyx_assassin"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_obsidian_destroyer"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_ogre_magi"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_omniknight"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_oracle"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_pangolier"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_phantom_assassin"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_phantom_lancer"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_phoenix"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_primal_beast"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_puck"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_pudge"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_pugna"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_queenofpain"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_rattletrap"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_razor"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_ringmaster"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_riki"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_rubick"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_sand_king"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_shadow_demon"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_shadow_shaman"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_shredder"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_silencer"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_skeleton_king"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_skywrath_mage"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_slardar"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_slark"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_snapfire"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_sniper"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_spectre"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_spirit_breaker"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_storm_spirit"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_sven"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_techies"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_templar_assassin"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_terrorblade"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_tidehunter"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_tinker"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_tiny"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_treant"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_troll_warlord"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_tusk"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_undying"
+{
+    "Role" "Strength"
+}
+"npc_dota_hero_ursa"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_vengefulspirit"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_venomancer"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_viper"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_visage"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_void_spirit"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_warlock"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_weaver"
+{
+    "Role" "Agility"
+}
+"npc_dota_hero_windrunner"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_winter_wyvern"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_wisp"
+{
+    "Role" "Universal"
+}
+"npc_dota_hero_witch_doctor"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_zuus"
+{
+    "Role" "Intelligence"
+}
+"npc_dota_hero_abyssal_underlord"
+{
+    "Role" "Strength"
+}

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"maps"						"dota"
+	"IsPlayable"				"1"
+	"EnablePickRules"			"1"
+	"MaxPlayers"				"10"
+	"HeroSelectionMode"			"limited"
+	"HeroListFile"				"scripts/npc/herolist.txt"
+}

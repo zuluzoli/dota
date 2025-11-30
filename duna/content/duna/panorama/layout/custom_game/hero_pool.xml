@@ -1,0 +1,14 @@
+<root>
+    <styles>
+        <include src="file://{resources}/styles/custom_game/hero_pool.css" />
+    </styles>
+    <scripts>
+        <include src="file://{resources}/scripts/custom_game/hero_pool.js" />
+    </scripts>
+    <Panel style="width:100%; height:100%; z-index:9999;">
+        <Panel id="HeroPoolRoot" style="width:800px; height:600px; background-color:#111111aa; horizontal-align:center; vertical-align:center; border:2px solid #00ff00; z-index:10000;">
+            <Label text="CUSTOM HERO SELECTION" style="color:#00ff00; font-size:32px; horizontal-align:center; margin-top:20px;" />
+            <Panel id="HeroPoolContainer" style="flow-children:right; horizontal-align:center; vertical-align:center; width:100%; height:80%;" />
+        </Panel>
+    </Panel>
+</root>

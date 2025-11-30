@@ -1,0 +1,11 @@
+// Custom Hero List for Limited Hero Pool
+// Only heroes listed here will appear in hero selection
+"HeroList"
+{
+	"npc_dota_hero_axe"					"1"
+	"npc_dota_hero_lina"				"1"
+	"npc_dota_hero_zuus"				"1"
+	"npc_dota_hero_dazzle"				"1"
+	"npc_dota_hero_puck"				"1"
+	"npc_dota_hero_ogre_magi"			"1"
+}
